@@ -1,0 +1,60 @@
+Bachelor of Technology (B.Tech), Computer science
+Gayatri Vidya Parishad College of Engineering
+2020 - 2024
+
+
+INTERNSHIPS
+ 
+Data Science
+Onestop, Virtual
+Aug 2022 - Sep 2022
+I completed my Data Science internship in that i have learned python required for machine Learning and Data Science these skills are applied to complete the projects
+Hierarchical Clustering and Linear Discriminant Analysis.
+ 
+Data Analytics
+AICTE-EduSkills, Virtual
+Jul 2022 - Sep 2022
+In the Data Analytic process automation I have learned new technology called alteryx software which is used to preprocess the data in very easy way in which one line of code is not required very easy to use and can understand easily powerful tool.
+
+
+TRAININGS/ COURSES
+ 
+Data Structures
+NPTEL, Online
+Aug 2022 - Sep 2022
+In the Data Structure course I have learned how to handle trees, linked lists,graphs and dynamic programming fundamentals.
+
+
+
+ACADEMICS/ PERSONAL PROJECTS
+ 
+Speech to Text converter
+Mar 2023 - Mar 2023
+https://drive.google.com/file/d/1idlswRsMP7YoSTrCDwKcH_PWghjb70oG/view?usp=share_link
+We are converting our speech to text format and now want to extend it to web browsing using speech using API.
+ 
+Traffic Sign Recognition
+Feb 2023 - Feb 2023
+https://drive.google.com/file/d/1aNBmQY8QoqdgVT5lsb5IkEoUfymk7iJW/view?usp=share_link
+In traffic sign recognition our model will classify which type of traffic sign it is when we upload an image.It has classes of 43.Used convolutional networks .
+ 
+Steel Defect Detection
+Apr 2023 - Present
+https://drive.google.com/file/d/128Onuz0LFkq2iX77E26d3Rf_GWhguEkg/view?usp=share_link
+In this project we need to classify whether a steel object have defect or not and if it has defect we have to clasify which type of defect it is. Here we have to do multiclassification and segmentation currently working on it.
+
+
+ACCOMPLISHMENTS/ ADDITIONAL DETAILS
+ 
+I have accomplished best team award in deep learning contest.
+I secured 6th place in meachine learning contest which is held in our college.
+I have attended workshops ARspark and blender.
+I got alteryx microcredentials and core certifications.
+
+
+
+
+Iam very interested in machine learning I have done two internships on data analytics and datascience so I have got an basic experience how to apply skills to solve real world problems and I have done two projects one is traffic sign calssification using convolutional neural networks and speech to text converter at present I am working on steel defect detection which is multiclassification present in kaggle competion also.I have participated in machine learning and deeplearning contests in our college and secured 6th place and best team award respectively .so considering all these work I am confident and very interested to experience industrial work by keeping all my skills to work for company effectively.
+
+
+Iam very interested in machine learning I have done two internships on data analytics and datascience so I have got an basic experience how to apply skills to solve real world problems and I have done  two projects one is traffic sign calssification using convolutional neural networks and speech to text converter at present I am working on steel defect detection which is multiclassification present in kaggle competion also.I have participated in machine learning and deeplearning contests in our college and secured 6th place and best team award respectively .so considering all these work I am confident  and very interested to experience industrial work by keeping all my skills to work for company effectively.
